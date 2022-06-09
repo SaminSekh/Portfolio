@@ -585,4 +585,12 @@ padding: 20px;
 .copyright span a{
 	color: rgb(6, 158, 6);
 }
-
+.scl{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: "apercu",sans-serif;
+}
