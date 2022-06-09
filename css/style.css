@@ -511,7 +511,7 @@ cursor: pointer;
 input[type=submit]:hover {
 background-color: #45a049;
 }
-#frm{
+.frm{
     width: 100%;
     overflow: hidden;
     display: flex;
